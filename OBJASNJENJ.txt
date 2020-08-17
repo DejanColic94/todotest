@@ -1,0 +1,7 @@
+Dolazi do greske kod instalacije yarn- a.
+probao sam i sa yarn install i sa manuelnom instalacijom.
+Skinuo sam .msi file i instalirao tako ali i dalje ne mogu da konfigurisem Vue.
+
+Posto je tema ovog domaceg git, nadam se da ce biti dovoljno nekoliko commita bez ispravke ona dva fajla sa vezbi.
+U prethodnim domacim zadacima sam ukljucio linkove do github repoa- , negde sam cak i pravio vise grana i merge-ovao
+tako da se nadam da je to dovoljno.
